@@ -1,0 +1,35 @@
+README - By: Cory Sollberger
+
+The program works as stated by HW4:
+
+Where the following methods are working: (Not fixed from my previous implementation of HW3)
+
+c_k = works, creates the tree
+s_k_d = works, and orders the children
+e_k = works
+r_k = works, but for some reason doesn't find any key past the last child of the root
+xs = works
+xa = works
+xb = works
+
+The following methods aren't working:
+xh
+d_k
+xp
+
+The GUI works with a few bugs.
+- The ComboBox doesn't "drop down" sometimes (ridiculously annoying), but you can select it and use the arrow keys
+to change the command
+- The Font and color changes, but I couldn't find a way to only make the specific line change, as it affects
+the entire JTextArea.
+
+The project seems to work fine for the above methods, with their little bugs.
+
+Start the GUI program by running the main associated with "guiDriver"
+
+Run the c_k command to create the tree, then you may modify the tree with the other commands
+
+Argument 1: the first argument associated with the method
+Argument 2: the second argument associated with the method
+
+Thank you.
