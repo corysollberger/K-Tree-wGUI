@@ -18,7 +18,7 @@ d_k
 xp
 
 The GUI works with a few bugs.
-- The ComboBox doesn't "drop down" sometimes (ridiculously annoying), but you can select it and use the arrow keys
+- The ComboBox doesn't "drop down" sometimes, but you can select it and use the arrow keys
 to change the command
 - The Font and color changes, but I couldn't find a way to only make the specific line change, as it affects
 the entire JTextArea.
